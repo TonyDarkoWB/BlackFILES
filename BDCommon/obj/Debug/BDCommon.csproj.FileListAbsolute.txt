@@ -1,0 +1,6 @@
+E:\Users\Mr.Karyzir\Documents\Visual Studio 2013\Projects\BlackDesertLogin\BDCommon\bin\Debug\BDCommon.dll
+E:\Users\Mr.Karyzir\Documents\Visual Studio 2013\Projects\BlackDesertLogin\BDCommon\bin\Debug\BDCommon.pdb
+E:\Users\Mr.Karyzir\Documents\Visual Studio 2013\Projects\BlackDesertLogin\BDCommon\bin\Debug\Scs.dll
+E:\Users\Mr.Karyzir\Documents\Visual Studio 2013\Projects\BlackDesertLogin\BDCommon\obj\Debug\BDCommon.csprojResolveAssemblyReference.cache
+E:\Users\Mr.Karyzir\Documents\Visual Studio 2013\Projects\BlackDesertLogin\BDCommon\obj\Debug\BDCommon.dll
+E:\Users\Mr.Karyzir\Documents\Visual Studio 2013\Projects\BlackDesertLogin\BDCommon\obj\Debug\BDCommon.pdb
